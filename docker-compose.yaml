@@ -35,7 +35,7 @@ services:
             context: .
             dockerfile: DockerfileJupyter
         volumes:
-            - .:/home/jovyan/aaa
+            - .:/home/anyelot/aaa
         depends_on: 
             - mysql
         ports:
