@@ -1,3 +1,3 @@
-FROM anyelot/pf_docker_g10:notebook
+FROM anyelot/pf_docker_g10:latest
 
 RUN pip3 install mysql-connector-python
