@@ -1,4 +1,4 @@
 # Docker
-Proyecto Final Docker ED II
+Proyecto Final Docker EDC II
 USER: 'sloth'
 PASSWORD: 'sloth'
