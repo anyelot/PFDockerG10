@@ -1,4 +1,4 @@
 # Docker
 Proyecto Final Docker EDC II
-USER: 'sloth'
-PASSWORD: 'sloth'
+- USER: 'sloth'
+- PASSWORD: 'sloth'
